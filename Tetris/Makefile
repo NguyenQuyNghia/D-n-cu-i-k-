@@ -1,0 +1,3 @@
+all:
+	g++ -IG:\Nghia\Tetris\src\include\SDL2 -IG:\Nghia\Library\SDL2_image-2.0.5\x86_64-w64-mingw32\include\SDL2 -IG:\Nghia\Library\SDL2_ttf-devel-2.0.18-mingw\SDL2_ttf-2.0.18\x86_64-w64-mingw32\include\SDL2  -c main.cpp EasyMode.cpp Menu.cpp HardMode.cpp
+	g++ main.o  EasyMode.o HardMode.o Menu.o -o main -LG:\Nghia\Tetris\src\lib -LG:\Nghia\Library\SDL2_image-2.0.5\x86_64-w64-mingw32\lib -LG:\Nghia\Library\SDL2_ttf-devel-2.0.18-mingw\SDL2_ttf-2.0.18\x86_64-w64-mingw32\lib -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_ttf 
