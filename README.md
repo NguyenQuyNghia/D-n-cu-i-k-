@@ -19,7 +19,7 @@ I,Hướng dẫn cài đặt và chạy game
     
     Tải SDL2 image tại link https://www.libsdl.org/projects/SDL_image/release/SDL2_image-devel-2.0.5-mingw.tar.gz
     
-    Tải SDL2 ttf tại link 
+    Tải SDL2 ttf tại link https://www.libsdl.org/projects/SDL_ttf/release/
     
     Giải nén các file vừa tạo và để trong folder Library
 
