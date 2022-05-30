@@ -78,4 +78,4 @@ V, Kết luận
     Tạo thêm skill Swap để tráo đổi vị trí 2 khối theo ý mình 
     Thêm tính năng lưu trữ tiến độ chơi khi Exit giữa chừng
 
-  Sau khi hoàn thiện chương trình, thứ em tâm đắc nhất là
+  Sau khi hoàn thiện, thứ em tâm đắc nhất là cách chia file, tuy chưa được thành thạo nhưng đó là những bước đầu để làm nên 1 chương trình, bên cạnh đó là cách giải quyết 1 vấn đề bằng cách chia nhỏ bài toán (cụ thể là xử lí trường hợp merge ở chế độ hard), 
