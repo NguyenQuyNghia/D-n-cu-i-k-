@@ -3,6 +3,8 @@ I,Hướng dẫn cài đặt và chạy game
 B1:Tải Visual Studio Code
 Tạo folder Nghia trong ổ G, trong Nghia tạo thư mục Library
 Tải folder Tetris về (download file Zip và giải nén) và để trong Nghia
+
+
 ![G](https://user-images.githubusercontent.com/100202140/170916120-bc40d8aa-f3a7-402b-a1ef-e08247f07b13.png)
 
 
@@ -11,6 +13,8 @@ Tải SDL2 tại link https://www.libsdl.org/release/SDL2-devel-2.0.20-mingw.tar
 Tải SDL2 image tại link https://www.libsdl.org/projects/SDL_image/release/SDL2_image-devel-2.0.5-mingw.tar.gz
 Tải SDL2 ttf tại link 
 Giải nén các file vừa tạo và để trong folder Library 
+
+
 ![Screenshot 2022-05-30 111143](https://user-images.githubusercontent.com/100202140/170915739-5caa8e8f-8950-4776-83ac-435c275de81b.png)
 
 B3: Setup
@@ -18,6 +22,8 @@ Vào mingw32 -> bin và copy đường dẫn đến bin
 Vào path -> Environment variable -> Path -> 
 Tạo new và dán đường dẫn vừa copy vào 
 (Tương tự với SDL2,SDL image,SDL ttf) 
+
+
 ![path](https://user-images.githubusercontent.com/100202140/170916669-ce0fe845-f32b-4e4c-aa1e-329986cb277f.png)
 
 B4:
