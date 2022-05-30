@@ -199,6 +199,13 @@ void Tetris::gameplay()
             k--;
         }
     }
+    for (int j=0;j<Cols;j++)
+    {
+	    if (field[0][j])
+	    {
+		    running=false;
+	    }
+    }
     dx=0;
     rotate=false;
     delay=300;
