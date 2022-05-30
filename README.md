@@ -51,7 +51,7 @@ II, Mô tả chung về trò chơi
 
   Game có 2 chế độ, chế độ Easy là chế độ tetris cổ điển, chế độ Hard là chế  độ kết hợp giữa 2048 và Tetris, game kết thúc khi đạt đến 1 số điểm nhất định hoặc màn hình full block
 
-  link Youtube:
+  link Youtube: https://www.youtube.com/watch?v=HCpBMYxupPw
 
 III, Các chức năng của trò chơi
 
