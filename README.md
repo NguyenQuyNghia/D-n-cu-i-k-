@@ -49,7 +49,7 @@ I,Hướng dẫn cài đặt và chạy game
 
 II, Mô tả chung về trò chơi
 
-  Game có 2 chế độ, chế độ Easy là chế độ tetris cổ điển, chế độ Hard là chế  độ kết hợp giữa 2048 và Tetris, game kết thúc khi đạt đến 1 số điểm nhất định hoặc màn hình full block
+  Game có 2 chế độ, chế độ Easy là chế độ tetris cổ điển,khi các Block xếp kín 1 hàng thì hàng đó sẽ biến mất, chế độ Hard là chế độ kết hợp giữa 2048 và Tetris,các khối giống nhau ở cạnh nhau sẽ kết hợp làm 1, game kết thúc khi đạt đến 1 số điểm nhất định hoặc màn hình full block
 
   link Youtube: https://www.youtube.com/watch?v=HCpBMYxupPw
 
