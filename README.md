@@ -37,7 +37,8 @@ I,Hướng dẫn cài đặt và chạy game
       (Tương tự với SDL2,SDL image,SDL ttf) 
 
 
-![path](https://user-images.githubusercontent.com/100202140/170916669-ce0fe845-f32b-4e4c-aa1e-329986cb277f.png)
+![path](https://user-images.githubusercontent.com/100202140/170919019-ddba89f9-402b-466b-bbd9-b4f3d6815d45.png)
+
 
   B4:
 
