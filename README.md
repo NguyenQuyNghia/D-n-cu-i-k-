@@ -73,11 +73,11 @@ V, Kết luận
 
   Hướng phát triển tiếp theo của game:
   Chế độ Easy
-    Update thêm phần cập nhật điểm số và tạo thêm ô để dự đoán block tiếp theo sẽ rơi xuống 
+      Update thêm phần cập nhật điểm số và tạo thêm ô để dự đoán block tiếp theo sẽ rơi xuống 
 
   Chế độ Hard 
-    Update Skill Búa (khi người chơi đạt đến số điểm nhất định) sẽ có skill búa để phá 1 khối bất  kì  (đã làm được 50%)
-    Tạo thêm skill Swap để tráo đổi vị trí 2 khối theo ý mình 
-    Thêm tính năng lưu trữ tiến độ chơi khi Exit giữa chừng
+      Update Skill Búa (khi người chơi đạt đến số điểm nhất định) sẽ có skill búa để phá 1 khối bất  kì  (đã làm được 50%)
+      Tạo thêm skill Swap để tráo đổi vị trí 2 khối theo ý mình 
+      Thêm tính năng lưu trữ tiến độ chơi khi Exit giữa chừng
 
   Sau khi hoàn thiện, thứ em tâm đắc nhất là chế độ hard mode, đây là lần đầu tiên em có thể tự hoàn thiện được tất cả dòng code (do game này không có tutorial hay code mẫu để tham khảo) và trải qua 7 7 49 lỗi để làm được, phần vì đây là lần đầu em tự code được chương trình có độ phức tạp hơn nhiều so với những bài toán cin cout đơn giản ở nhập môn lập trình. 
