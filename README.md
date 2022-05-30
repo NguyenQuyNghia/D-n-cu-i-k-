@@ -55,25 +55,27 @@ II, Mô tả chung về trò chơi
 
 III, Các chức năng của trò chơi
 
-  Menu đơn giản 
-  Điều khiển bằng các phím mũi tên
-  Chế độ hard có tính điểm, có retry khi kết thúc 
+    Menu đơn giản 
+    Điều khiển bằng các phím mũi tên
+    Chế độ hard có tính điểm, có retry khi kết thúc 
 
 IV, Các kỹ thuật lập trình được sử dụng
-  Sử dụng thư viện đồ họa SDL,SDL image,SDL ttf
-  Struct, Class
-  Mảng
+
+    Sử dụng thư viện đồ họa SDL,SDL image,SDL ttf
+    Struct, Class
+    Mảng
 
 V, Kết luận
-Là dự án game đầu tay nên không tránh khỏi các thiếu xót, mong rằng sẽ nhận được góp ý từ mọi người
 
-Hướng phát triển tiếp theo của game:
-Chế độ Easy
-  Update thêm phần cập nhật điểm số và tạo thêm ô để dự đoán block tiếp theo sẽ rơi xuống 
+  Là dự án game đầu tay nên không tránh khỏi các thiếu xót, mong rằng sẽ nhận được góp ý từ mọi người
 
-Chế độ Hard 
-  Update Skill Búa (khi người chơi đạt đến số điểm nhất định) sẽ có skill búa để phá 1 khối bất  kì  (đã làm được 50%)
-  Tạo thêm skill Swap để tráo đổi vị trí 2 khối theo ý mình 
-  Thêm tính năng lưu trữ tiến độ chơi khi Exit giữa chừng
+  Hướng phát triển tiếp theo của game:
+  Chế độ Easy
+    Update thêm phần cập nhật điểm số và tạo thêm ô để dự đoán block tiếp theo sẽ rơi xuống 
 
-Sau khi hoàn thiện chương trình, thứ em tâm đắc nhất là
+  Chế độ Hard 
+    Update Skill Búa (khi người chơi đạt đến số điểm nhất định) sẽ có skill búa để phá 1 khối bất  kì  (đã làm được 50%)
+    Tạo thêm skill Swap để tráo đổi vị trí 2 khối theo ý mình 
+    Thêm tính năng lưu trữ tiến độ chơi khi Exit giữa chừng
+
+  Sau khi hoàn thiện chương trình, thứ em tâm đắc nhất là
