@@ -55,6 +55,8 @@ II, Mô tả chung về trò chơi
 
 III, Các chức năng của trò chơi
 
+    Ở chế độ Easy, các dòng sẽ được xóa đi nếu dòng đó đầy đủ các ô
+    Ở chế độ Hard, các ô sẽ được cộng lại nếu có cùng giá trị
     Menu đơn giản 
     Điều khiển bằng các phím mũi tên
     Chế độ hard có tính điểm, có retry khi kết thúc 
