@@ -11,14 +11,11 @@ I,Hướng dẫn cài đặt và chạy game
 ![G](https://user-images.githubusercontent.com/100202140/170916120-bc40d8aa-f3a7-402b-a1ef-e08247f07b13.png)
 
 
-  B2: Tải mingw32 tại link https://sourceforge.net/projects/mingw-w64/postdownload
-
+  B2: 
+    Tải mingw32 tại link https://sourceforge.net/projects/mingw-w64/postdownload
     Tải SDL2 tại link https://www.libsdl.org/release/SDL2-devel-2.0.20-mingw.tar.gz
-
     Tải SDL2 image tại link https://www.libsdl.org/projects/SDL_image/release/SDL2_image-devel-2.0.5-mingw.tar.gz
-
     Tải SDL2 ttf tại link 
-
     Giải nén các file vừa tạo và để trong folder Library
 
 
