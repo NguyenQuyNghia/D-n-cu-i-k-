@@ -12,6 +12,7 @@ I,Hướng dẫn cài đặt và chạy game
 
 
   B2: 
+  
     Tải mingw32 tại link https://sourceforge.net/projects/mingw-w64/postdownload
     
     Tải SDL2 tại link https://www.libsdl.org/release/SDL2-devel-2.0.20-mingw.tar.gz
